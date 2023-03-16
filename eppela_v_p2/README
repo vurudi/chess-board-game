@@ -1,0 +1,15 @@
+the image is sample out put to expect
+
+
+
+C++
+
+To execute the code, use the below commands:
+
+Enter make
+
+(or) 
+
+Compile: g++ eppela_v_p2.cpp
+
+Run: ./a.out
